@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I’m a passionate **Developer** specializing in *
 
 ## 🌟 Highlighted Projects
 
-### My own Portfolio >> https://github.com/pehgamarra/my_own_portfolio
+### My own Portfolio >> https://github.com/pehgamarra/my_own_portfolio ![Codefactor >](https://www.codefactor.io/repository/github/pehgamarra/my_own_portfolio/badge)
 **Description**: A own made portfolio where I showing my certificates, projects and informations about me 
-*Technologies used*: [Python, Django, HTML, CSS, JS]
+*Technologies used*: [Python, Django, HTML, CSS, JS] 
 
-### Hotel REST_API >> https://github.com/pehgamarra/Hotel_REST_API
+### Hotel REST_API >> https://github.com/pehgamarra/Hotel_REST_API ![Codefactor >](https://www.codefactor.io/repository/github/pehgamarra/hotel_rest_api/badge)
 **Description**: A REST API used for one site to many sites with many hotels. 
 *Technologies used*: [Python, FLASK, POSTMAN]
 
