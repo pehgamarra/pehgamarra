@@ -14,6 +14,10 @@ Welcome to my GitHub profile! I’m a passionate **Developer** specializing in *
 **Description**: A REST API used for one site to many sites with many hotels. 
 *Technologies used*: [Python, FLASK, POSTMAN]
 
+### E-commerce SmartphoneStore >> https://github.com/pehgamarra/e-commerce-django-mysql/ ![Codefactor >](https://www.codefactor.io/repository/github/pehgamarra/e-commerce-django-mysql/badge)
+**Description**: A E-commerce application using Django, matplotlib and mysql. It's a webb page to sell smartphones.
+*Technologies used*: [Python, Django, Mysql, Matplotlib, HTML/CSS/JS]
+
 ---
 
 ## 🛠️ Skills & Technologies
