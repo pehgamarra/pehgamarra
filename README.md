@@ -1,6 +1,6 @@
 # Hello, I'm Pedro Gamarra 👋
 
-Welcome to my GitHub profile! I’m a passionate **Developer** specializing in **Python**. I love working on innovative projects and continuously learning new things. Here’s a glimpse of what I do and how you can connect with me.
+Welcome to my GitHub profile! I’m a passionate **Developer** specializing in **Machine Learning**. I love working on innovative projects and continuously learning new things. Here’s a glimpse of what I do and how you can connect with me.
 
 ---
 
@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I’m a passionate **Developer** specializing in *
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Python, Java, MySQL
-- **Frameworks**: Django, Flask, HTML,CSS
-- **Tools**: Git, Docker
-- **Other Skills**: Object-Oriented Programming (OOP), Design Patterns, Big O' Notation, Clean Architecture
+- **Languages**: Python, Java, SQL, R
+- **Frameworks**: Django, Flask, Front, PowerBI
+- **Tools**: Git, Docker, Databricks, AWS, Snowflake
+- **Other Skills**: Object-Oriented Programming (OOP), Design Patterns, Big O' Notation, Clean Architecture, Statics, Machine Learning
 
 ---
 
@@ -47,10 +47,7 @@ Welcome to my GitHub profile! I’m a passionate **Developer** specializing in *
 ## 🌱 Currently Learning
 
 I’m diving into:
-- **Pandas** 
-- **Numpy** 
-- **Matplotlib & Seaborn**
-- **YOLO** 
+- **Machine Learning**
 
 ---
 
